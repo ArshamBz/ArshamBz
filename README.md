@@ -51,5 +51,5 @@
 <h3 align="left">States:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshamBz)](https://github.com/anuraghazra/github-readme-stats)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ArshamBz&show_icons=true&line_height=40&include_all_commits=true&count_private=true)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ArshamBz&show_icons=true&line_height=40&include_all_commits=true&count_private=true)]
 
