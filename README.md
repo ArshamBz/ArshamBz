@@ -3,7 +3,7 @@
 
 <p align="left">Innovative programmer and software developer with 3 years of experience.</p>
 
-- 🔭 I’m currently working on developing **Tizbina**
+- 🔭 I’m currently working on developing **Alavan** at Amoot soft
 
 [//]: # (- 🌱 I’m currently learning **CI/CD**)
 
