@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on developing **Alavan** at Amoot soft
 
-[//]: # (- 🌱 I’m currently learning **DL(Deep Learinig)**)
+[//]: # (- 🌱 I’m currently learning **DL(Deep learning)**)
 
 - 💬 Ask me about **Python, Django, Computer Vision**
 
